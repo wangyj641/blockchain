@@ -1,4 +1,4 @@
-# Install 
+# Install the dependence
 pipenv install 
 
 # Start the nodes
@@ -7,4 +7,3 @@ pipenv install
     * `$ pipenv run python blockchain.py --port 5002`
     
 
-    
